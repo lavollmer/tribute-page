@@ -3,6 +3,7 @@ img {
   max-width: 100%;
   height: auto;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 #title {
@@ -33,18 +34,21 @@ figcaption {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: small;
+  font-style: italic;
 }
 
 #tribute-info {
   display: block;
   align-items: center;
-  margin: 10px;
+  margin: 40px;
 }
 
 #gracelink {
-  display: block;
+  display: flex;
+  flex-direction: row;
   align-items: center;
-  margin: 10px;
+  margin: 40px;
 }
 
 footer {
@@ -59,4 +63,8 @@ footer {
 
 .custom-cursor {
   cursor: url(../images/icons8-cursor-64.png), auto;
+}
+
+#copyright {
+  font-size: small;
 }
