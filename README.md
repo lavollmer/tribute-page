@@ -44,6 +44,8 @@ Technical requirements of the website included:
 
 This project is a result of freeCodeCamp project.
 
+Unsplash Page: https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw
+
 <a id="license"></a>
 
 ## License
