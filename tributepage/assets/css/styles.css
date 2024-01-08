@@ -10,7 +10,7 @@ img {
   flex-direction: column;
   align-items: center;
   width: 100%;
-  color: 2D3029;
+  color: #2d3029;
 }
 
 #pioneertext {
@@ -22,6 +22,25 @@ img {
   color: #6c6f76;
 }
 
+#main {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#tribute-info {
+  display: block;
+  align-items: center;
+  margin: 10px;
+}
+
 .custom-cursor {
-  cursor: crosshair;
+  cursor: url(../images/icons8-cursor-64.png), auto;
 }
