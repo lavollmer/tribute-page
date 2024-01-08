@@ -41,6 +41,22 @@ figcaption {
   margin: 10px;
 }
 
+#gracelink {
+  display: block;
+  align-items: center;
+  margin: 10px;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#cursorcredit {
+  font-size: 10px;
+}
+
 .custom-cursor {
   cursor: url(../images/icons8-cursor-64.png), auto;
 }
