@@ -2,6 +2,13 @@ img {
   display: block;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  color: blue;
+}
+
 #image {
   max-width: 100%;
   height: auto;
