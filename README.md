@@ -37,6 +37,8 @@ Unsplash Page: https://unsplash.com/photos/monitor-showing-java-programming-Oqta
 
 Information about Grace Hopper was used from You.com AI.
 
+Utilized coolors for color palette related to the image.
+
 <a id="license"></a>
 
 ## License
