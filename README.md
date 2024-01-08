@@ -31,7 +31,7 @@ Technical requirements of the website included:
 
 ## Credits
 
-This project is a result of freeCodeCamp project.
+This project is a suggested project of freeCodeCamp project.
 
 Unsplash Page: https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw
 
