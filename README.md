@@ -46,6 +46,8 @@ This project is a result of freeCodeCamp project.
 
 Unsplash Page: https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw
 
+Information about Grace Hopper was used from You.com AI.
+
 <a id="license"></a>
 
 ## License
